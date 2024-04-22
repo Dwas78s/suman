@@ -22,4 +22,3 @@ echo "Installation of git...FAILURE"
 else
 echo "Installation of git...SUCCESS"
 fi
-echo "is script proceeging?"
